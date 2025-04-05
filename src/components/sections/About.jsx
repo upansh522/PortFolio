@@ -136,7 +136,7 @@ export const About = () => {
                   </p>
                 </div>
                 <div>
-                  <h4 className="font-semibold">3 ⭐ on CodeChef (1652)</h4>
+                  <h4 className="font-semibold">3 ⭐ on CodeChef (1681)</h4>
                   <p>
                     Demonstrates solid problem-solving skills in timed environments.
                   </p>
